@@ -1,7 +1,9 @@
 # pokemon
 A practice Python3 project utilising object-oriented programming to make a short Pokémon-esque game. 
 
-           _,........__
+```
+
+               _,........__
             ,-'            "`-.
           ,'                   `-.
         ,'                        \
@@ -34,3 +36,5 @@ A practice Python3 project utilising object-oriented programming to make a short
                ,'           )     `.         |
                 7____,,..--'      /          |
                                   `---.__,--.'
+
+```
